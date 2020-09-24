@@ -1,0 +1,22 @@
+body {
+	background-color: antiquewhite;
+	height:100%;
+}
+
+#container {
+	max-width: 900px;
+	margin: 0 auto;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: antiquewhite;
+}
+
+#posts {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.post {
+	padding-left:100px;
+	padding-right:100px;
+}

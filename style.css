@@ -1,0 +1,9 @@
+@import "css/main.css";
+@import "css/typography-1.css";
+
+/* font 1 */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+/* font 2 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital@1&family=Open+Sans:wght@300;600&display=swap');
+/* font 3 */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Sans:ital@1&family=Open+Sans:wght@300;600&display=swap');
